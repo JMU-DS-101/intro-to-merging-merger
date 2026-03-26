@@ -1,3 +1,11 @@
 {
-  "team": []
+  "team": [
+    {
+      "name": "Joost Burgers",
+      "major": "Replace with Major",
+      "role": "team lead",
+      "github": "https://github.com/joostburgers",
+      "headshot": ""
+    }
+  ]
 }
